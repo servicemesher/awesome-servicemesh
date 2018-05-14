@@ -1,0 +1,13 @@
+node_modules
+
+# Book build output
+_book
+
+# eBook build output
+*.epub
+*.mobi
+*.pdf
+
+# Github Pages
+deploy.sh
+.DS_Store
