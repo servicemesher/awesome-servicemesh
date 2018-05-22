@@ -8,6 +8,8 @@ install:
 
 build:
 	gitbook build . $(BOOK_OUTPUT)
+	rm docs/gitbook/images/apple-touch-icon-precomposed-152.png
+	cp images/favicon.ico docs/gitbook/images
 
 all: install build
 

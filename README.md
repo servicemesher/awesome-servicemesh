@@ -16,7 +16,8 @@ Service Mesh 又译“服务网格”，本站创建并维护这份Awesome Servi
 
 | 时间 | 标题 | 作者 | 中文翻译 | 备注 |
 |--|--------|--------|----|----|
-| 2018-1 |   [解读2017之Service Mesh：<br>群雄逐鹿烽烟起](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247487273&idx=1&sn=f654a9a8cb85d8cf2d06e469585cce8a&chksm=96c9b949a1be305f3eaa18e3fcb29cf66b4f51f37869e7ccd8c080a8ded8f4ecfe78e3de8ac6&mpshare=1&scene=1&srcid=1227PrB5dA8Hr3CHPv6B9PEN&pass_ticket=K%2FYVK4frKmQIBjzOKz2fFYc%2BwxcpMJV4d14ui%2BayOESnQJD%2BLr5DtBVa12t1Zu2N#rd)![](images/new_red.png)  | 敖小剑   |  | Infoq年度总结系列文章 |
+| 2018-1 | [Service Mesh：重塑微服务市场](https://skyao.io/publication/service-mesh-rebuild-microservice-market/)![](images/new_red.png) | 敖小剑   |  | 南京全球技术周互联网技术架构论坛 |
+| 2018-1 |   [解读2017之Service Mesh：<br>群雄逐鹿烽烟起](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247487273&idx=1&sn=f654a9a8cb85d8cf2d06e469585cce8a&chksm=96c9b949a1be305f3eaa18e3fcb29cf66b4f51f37869e7ccd8c080a8ded8f4ecfe78e3de8ac6&mpshare=1&scene=1&srcid=1227PrB5dA8Hr3CHPv6B9PEN&pass_ticket=K%2FYVK4frKmQIBjzOKz2fFYc%2BwxcpMJV4d14ui%2BayOESnQJD%2BLr5DtBVa12t1Zu2N#rd)  | 敖小剑   |  | Infoq年度总结系列文章 |
 | 2017-12 |   [山雨欲来风满楼：<br>Service Mesh时代的选边与站队](https://mp.weixin.qq.com/s?__biz=MzU0MTMyMDg1NQ==&mid=2247483697&idx=1&sn=b5fdd3af4ae352942820cec9280257c3&chksm=fb2af2c9cc5d7bdf05b7a58ba9120f4390de52c9c74e3d5e6932ca6b9367677234dbf8af06c1&mpshare=1&scene=1&srcid=1220gyaL6UP5ZUFpMn0UgPke&pass_ticket=K%2FYVK4frKmQIBjzOKz2fFYc%2BwxcpMJV4d14ui%2BayOESnQJD%2BLr5DtBVa12t1Zu2N#rd)  | 敖小剑   |  | 北京meetup演讲实录 |
 | 2017-10 |   [Service Mesh：下一代微服务](https://mp.weixin.qq.com/s?__biz=MzA3MDg4Nzc2NQ==&mid=2652136254&idx=1&sn=bba9bbd24ac8e5c1f6ef5d1125a6975b&chksm=84d53304b3a2ba12f88675c1bf51973aa1210d174da9e6c2ddcd1f3c84ec7e25987b3bce1071&mpshare=1&scene=1&srcid=1020GPmfbEVP9QDNlZBHg47I&pass_ticket=vR63tjXqn9DTRAEWRKRMIB8O1ybqCamYyCza7%2BE5YRJRfpf%2F5OwphFKHGOiDiS6u#rd)  | 敖小剑   |  | QCON演讲实录 |
 | 2017-08|   [Pattern: Service Mesh](http://philcalcado.com/2017/08/03/pattern_service_mesh.html)  | Phil Calçado | [模式之服务网格](http://www.infoq.com/cn/articles/pattern-service-mesh?from=awesome-servicemesh) | 详细介绍Service Mesh模式和演进过程，强烈推荐 |
@@ -62,7 +63,9 @@ Service Mesh 又译“服务网格”，本站创建并维护这份Awesome Servi
 
 ## Envoy
 
+### 文档
 
+[Envoy官方文档中文版](https://servicemesher.github.io/envoy)
 
 ## Linkerd
 

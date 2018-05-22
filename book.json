@@ -16,7 +16,10 @@
     "back-to-top-button",
     "github-buttons@2.1.0",
     "wide-page",
-    "tags"
+    "tags",
+    "3-ba",
+    "favicon@^0.0.2",
+    "tbfed-pagefooter@^0.0.1"
   ],
   "pluginsConfig": {
     "edit-link": {
@@ -30,6 +33,18 @@
     },
     "theme-default": {
             "showLevel": true
+    },
+    "3-ba": {
+        "token": "11f7d254cfa4e0ca44b175c66d379ecc"
+     },
+    "tbfed-pagefooter": {
+    "copyright": "Copyright © ServiceMesher 2018",
+    "modify_label": " 最后更新于 ",
+    "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "favicon": {
+        "shortcut": "favicon.ico",
+        "bookmark": "favicon.ico"
     }
   }
 }
