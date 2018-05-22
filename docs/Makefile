@@ -1,9 +1,15 @@
 BOOK_NAME := awesome-servicemesh
 BOOK_OUTPUT := docs
 
-.PHONY: build
+.PHONY: install build all
+install:
+	npm install gitbook-cli -g
+	gitbook install
+
 build:
 	gitbook build . $(BOOK_OUTPUT)
+
+all: install build
 
 .PHONY: serve
 serve:
@@ -20,11 +26,6 @@ pdf:
 .PHONY: mobi
 mobi:
 	gitbook mobi . $(BOOK_NAME).pdf
-
-.PHONY: install
-install:
-	npm install gitbook-cli -g
-	gitbook install
 
 .PHONY: clean
 clean:
