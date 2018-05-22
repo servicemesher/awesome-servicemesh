@@ -58,7 +58,7 @@ Service Mesh 又译“服务网格”，本站创建并维护这份Awesome Servi
 | 时间 | 标题 | 作者 | 中文翻译 | 备注 |
 |--|--------|--------|----|----|
 | 2017-12 |   [Conduit AMA session recap](https://buoyant.io/2017/12/27/conduit-ama-session-recap/) ![](images/new_red.png) | George Miranda | [Conduit AMA 活动回放](https://mp.weixin.qq.com/s?__biz=MzIxMDY5ODM1OA==&mid=2247483950&idx=1&sn=9c1ac2317a744f4071b14f9e1575558b&chksm=9761eb37a0166221de9827ff430e6ee3d164e73145d42009f5f6f4d9f4146deb0899524b894d&mpshare=1&scene=1&srcid=0101VEm8cn0KyNSem88rXHPU&pass_ticket=K%2FYVK4frKmQIBjzOKz2fFYc%2BwxcpMJV4d14ui%2BayOESnQJD%2BLr5DtBVa12t1Zu2N#rd) | 介绍conduit项目的各种情况 |
-| 2017-12 |   [Introducing Conduit](https://buoyant.io/2017/12/05/introducing-conduit/) | William Morgan | [Conduit登场](http://blog.fleeto.us/translation/introducing-conduit) | conduit第一次亮相 |
+| 2017-12 |   [Introducing Conduit](https://buoyant.io/2017/12/05/introducing-conduit/) | William Morgan | [Conduit 登场](https://blog.fleeto.us/post/conduit-ann/) | conduit第一次亮相 |
 
 ## Envoy
 
