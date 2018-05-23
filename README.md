@@ -47,6 +47,7 @@ Service Mesh 又译“服务网格”，本站创建并维护这份Awesome Servi
 | 2017-09|   [What is Istio? It’s a service mesh. Great. What’s a service mesh?](https://www.mirantis.com/blog/what-is-istio-its-a-service-mesh-whats-a-service-mesh/)  |  Nick Chase  | [什么是Istio? 它是服务网格。棒极了，那什么是服务网格？](https://my.oschina.net/u/2562868/blog/1563506)  | 访谈录 |
 | 2017-05|  [Google, IBM and Lyft launch Istio, an open-source platform for managing and securing microservices](https://techcrunch.com/2017/05/24/google-ibm-and-lyft-launch-istio-an-open-source-platform-for-managing-and-securing-microservices/?utm_source=tuicool&utm_medium=referral)   |  Frederic Lardinois   | [Istio开源平台发布，Google、IBM和Lyft分别承担什么角色？](https://www.leiphone.com/news/201705/RwRlyAs7Mi8pqhSb.html) |  |
 | 2017-05|  [Google, IBM, Lyft partner on open source microservices management platform Istio](https://www.techrepublic.com/article/google-ibm-lyft-partner-on-open-source-microservices-management-platform-istio/)   |  Conner Forrest   |  | _ |
+| 2017-11 | [一个商用级Service Mesh服务的设计之道](https://blog.csdn.net/karamos/article/details/80133231)   | 田晓亮  |  | [相关PPT](http://servicecomb.incubator.apache.org/assets/slides/20171209/PracticeOfServiceMeshOnHuaweiPublicCloud.pdf) |
 
 ## Conduit
 
