@@ -72,6 +72,7 @@ Service Mesh 又译“服务网格”，本站创建并维护这份Awesome Servi
 
 - [Ambassador](https://github.com/envoy/Ambassador) - 基于 Envoy 的开源的用于微服务的 Kubernetes 原生 API 网关
 - [squash](https://github.com/solo-io/squash) - 微服务调试器
+- [rotor](https://github.com/turbinelabs/rotor) - Rotor 是一个在服务发现与 Envoy 配置 API 之间的快速、轻量级的桥接代理。它将您的基础设施分组到 Envoy 集群中，并为每个服务定义简单路由。它直接从您的服务发现注册表中收集实例，用标记或标签将实例分组来创建集群。实例和集群信息通过 Envoy 的端点和集群发现服务 CDS 和 EDS 提供。
 
 ## Linkerd
 
