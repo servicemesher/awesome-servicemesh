@@ -1,5 +1,5 @@
 BOOK_NAME := awesome-servicemesh
-BOOK_OUTPUT := docs
+BOOK_OUTPUT := _book
 
 .PHONY: install build all
 install:
@@ -8,8 +8,8 @@ install:
 
 build:
 	gitbook build . $(BOOK_OUTPUT)
-	rm docs/gitbook/images/apple-touch-icon-precomposed-152.png
-	cp images/favicon.ico docs/gitbook/images
+	rm $(BOOK_OUTPUT)/gitbook/images/apple-touch-icon-precomposed-152.png
+	cp images/favicon.ico $(BOOK_OUTPUT)/gitbook/images
 
 all: install build
 
