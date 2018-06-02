@@ -2,7 +2,7 @@
 
 ## 2018
 
-TBD
+- 2018年6月1日，Istio发布 0.8 LTS版本，[查看详情](https://istio.io/about/notes/0.8/)
 
 ## 2017
 
