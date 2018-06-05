@@ -3,6 +3,7 @@
 ## 2018
 
 - 2018年6月1日，Istio发布 0.8 LTS版本，[查看详情](https://istio.io/about/notes/0.8/)
+- 2018年6月5日，[Conduit 0.4.2](https://github.com/runconduit/conduit/releases/tag/v0.4.2)发布，这是生产就绪之路上的重要一步，这个版本为代理服务器的长期运行做出了很多修复和提高，并提供了更多的遥测功能。同时也为未来的双向 TLS 版本打好了基础。
 
 ## 2017
 
