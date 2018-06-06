@@ -24,3 +24,4 @@ Red Hat Cloud的首席架构师，"Microservices for Java Developers"一书的�
 - LinkedIn： http://linkedin.com/pub/christian-posta/15/412/199
 - Github： http://github.com/christian-posta
 - Stackoverflow： http://stackoverflow.com/users/248392/ceposta
+- Slideshare: https://www.slideshare.net/ceposta/presentations
