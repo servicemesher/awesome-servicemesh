@@ -11,6 +11,10 @@ Service Mesh 又译“服务网格”，本站创建并维护这份Awesome Servi
 - [Linkerd](#linkerd)
 - [Nginmesh](#nginmesh)
 - [Aspenmesh](#aspenmesh)
+- [华为ServiceMesher](#华为)
+- [新浪微博MotanMesh](#MotanMesh)
+- [腾讯ServiceMesh](#tencent)
+- [UCloud](#ucloud)
 
 ## ServiceMesh
 
@@ -90,4 +94,36 @@ Service Mesh 又译“服务网格”，本站创建并维护这份Awesome Servi
 
 | 时间 | 标题 | 作者 | 中文翻译 | 备注 |
 |--|--------|--------|----|----|
-| 2017-12 |   [REDtalks.live – Aspen Mesh](https://buoyant.io/2017/12/05/introducing-conduit/) ![](images/new_red.png) | Shawn Wormke | - | 对Aspen Mesh的Sr. Director的采访视频  |
+| 2017-12 |   [REDtalks.live – Aspen Mesh](https://buoyant.io/2017/12/05/introducing-conduit/) | Shawn Wormke | - | 对Aspen Mesh的Sr. Director的采访视频  |
+
+## SofaMesh
+
+| 时间    | 标题                                                         | 作者 | 备注             |
+| ------- | ------------------------------------------------------------ | ---- | ---------------- |
+| 2018-06 | [[蚂蚁金服是如何实现经典服务化架构向Service Mesh方向演进的？](https://servicemesher.github.io/blog/migrating-from-classical-soa-to-service-mesh-in-ant-financial/) | 黄挺 | GIAC大会演讲实录 |
+
+## 华为
+
+| 时间    | 标题                                                         | 作者   | 备注                                                         |
+| ------- | ------------------------------------------------------------ | ------ | ------------------------------------------------------------ |
+| 2017-12 | [Service Mesh 在华为公有云的实践](http://gitbook.cn/books/5a1e7dca387c5b4ee351790b/index.html) | 田晓亮 | [PDF下载](https://servicecomb.incubator.apache.org/assets/slides/20171209/PracticeOfServiceMeshOnHuaweiPublicCloud.pdf) |
+| 2017-12 | [一个商用级Service Mesh服务的设计之道](https://blog.csdn.net/karamos/article/details/80133231) | 田晓亮 |                                                              |
+
+## MotanMesh
+
+| 时间    | 标题                                                         | 作者 | 备注 |
+| ------- | ------------------------------------------------------------ | ---- | ---- |
+| 2017-12 | [明星分分合合的洪荒点击量，微博Mesh服务化改造如何支撑？](http://dockone.io/article/2996) | 周晶 |      |
+
+## Tencent
+
+| 时间    | 标题                                                         | 作者   | 备注                                   |
+| ------- | ------------------------------------------------------------ | ------ | -------------------------------------- |
+| 2018-05 | [腾讯云TSF微服务平台及ServiceMesh技术实践](http://dockone.io/article/5803) | 单家骏 | 根据2018年05月15日晚微信群分享内容整理 |
+
+## UCloud
+
+| 时间    | 标题                                                         | 作者 | 备注                                 |
+| ------- | ------------------------------------------------------------ | ---- | ------------------------------------ |
+| 2018-05 | [轻量ServiceMesh实践](https://www.csdn.net/article/a/2018-05-04/15947689) | 徐亮 | 对Aspen Mesh的Sr. Director的采访视频 |
+
