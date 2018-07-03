@@ -24,7 +24,8 @@
     "tags",
     "3-ba",
     "favicon@^0.0.2",
-    "tbfed-pagefooter@^0.0.1"
+    "tbfed-pagefooter@^0.0.1",
+    "sitemap-general"
   ],
   "pluginsConfig": {
     "edit-link": {
@@ -50,6 +51,9 @@
     "favicon": {
         "shortcut": "favicon.ico",
         "bookmark": "favicon.ico"
+    },
+    "sitemap-general": {
+        "prefix": "http://www.servicemesher.com/awesome-servicemesh/"
     }
   }
 }
