@@ -7,6 +7,7 @@ Service Mesh 又译“服务网格”，本站创建并维护这份Awesome Servi
 - [Service Mesh](#servicemesh)
 - [Istio](#istio)
 - [Conduit](#conduit)
+- [Consul](#consul)
 - [Envoy](#envoy)
 - [Linkerd](#linkerd)
 - [Nginmesh](#nginmesh)
@@ -63,14 +64,21 @@ Service Mesh 又译“服务网格”，本站创建并维护这份Awesome Servi
 
 | 时间 | 标题 | 作者 | 中文翻译 | 备注 |
 |--|--------|--------|----|----|
+| 2018-07-06 | [Conduit 0.5.0 and the future of Conduit](https://blog.conduit.io/2018/07/06/conduit-0-5-and-the-future/) | [Oliver Gould](https://blog.conduit.io/author/oliver/) | [Conduit 0.5 发布 —— 以及 R.I.P. Conduit](Conduit 0.5 发布 —— 以及 R.I.P. Conduit) | Conduit最后一个版本，将合并入Linkerd 2.0 |
 | 2017-12 |   [Conduit AMA session recap](https://buoyant.io/2017/12/27/conduit-ama-session-recap/) ![](images/new_red.png) | George Miranda | [Conduit AMA 活动回放](https://mp.weixin.qq.com/s?__biz=MzIxMDY5ODM1OA==&mid=2247483950&idx=1&sn=9c1ac2317a744f4071b14f9e1575558b&chksm=9761eb37a0166221de9827ff430e6ee3d164e73145d42009f5f6f4d9f4146deb0899524b894d&mpshare=1&scene=1&srcid=0101VEm8cn0KyNSem88rXHPU&pass_ticket=K%2FYVK4frKmQIBjzOKz2fFYc%2BwxcpMJV4d14ui%2BayOESnQJD%2BLr5DtBVa12t1Zu2N#rd) | 介绍conduit项目的各种情况 |
-| 2017-12 |   [Introducing Conduit](https://buoyant.io/2017/12/05/introducing-conduit/) | William Morgan | [Conduit 登场](https://blog.fleeto.us/post/conduit-ann/) | conduit第一次亮相 |
+| 2017-12 |   [Introducing Conduit](https://buoyant.io/2017/12/05/introducing-conduit/) | William Morgan | [Conduit 登场](https://blog.fleeto.us/post/conduit-ann/) |  |
+
+## Consul
+
+| 时间       | 标题                                                         | 作者              | 中文翻译                                                     | 备注                       |
+| ---------- | ------------------------------------------------------------ | ----------------- | ------------------------------------------------------------ | -------------------------- |
+| 2018-06-26 | [HashiCorp Consul 1.2: Service Mesh](https://www.hashicorp.com/blog/consul-1-2-service-mesh) | Michell Hashimoto | [Service Mesh新成员：Consul 1.2](http://www.servicemesher.com/blog/consul-1-2-service-mesh/) | Consul宣布支持Service Mesh |
 
 ## Envoy
 
 ### 文档
 
-[Envoy官方文档中文版](https://servicemesher.github.io/envoy)
+[Envoy官方文档中文版](http://www.servicemesher.com/envoy/)
 
 ### 工具
 
@@ -100,7 +108,7 @@ Service Mesh 又译“服务网格”，本站创建并维护这份Awesome Servi
 
 | 时间    | 标题                                                         | 作者 | 备注             |
 | ------- | ------------------------------------------------------------ | ---- | ---------------- |
-| 2018-06 | [[蚂蚁金服是如何实现经典服务化架构向Service Mesh方向演进的？](https://servicemesher.github.io/blog/migrating-from-classical-soa-to-service-mesh-in-ant-financial/) | 黄挺 | GIAC大会演讲实录 |
+| 2018-06 | [[蚂蚁金服是如何实现经典服务化架构向Service Mesh方向演进的？](http://www.servicemesher.com/blog/migrating-from-classical-soa-to-service-mesh-in-ant-financial/) | 黄挺 | GIAC大会演讲实录 |
 
 ## 华为
 
