@@ -12,7 +12,7 @@
 - [istio](https://github.com/istio) - An open platform to connect, manage, and secure microservices.
 - [kong](https://github.com/Kong/kong) - 🐒 The Microservice API Gateway <https://konghq.com/install>
 - [linkerd](https://github.com/linkerd/linkerd) - Open source service mesh for cloud-native applications [https://linkerd.io](https://linkerd.io/)
-- [mesher](https://github.com/go-chassis/mesher) - A light weight service mesh implementation based on [go chassis](https://github.com/ServiceComb/go-chassis). 华为开源
+- [mesher](https://github.com/go-mesh/mesher) - A light weight service mesh implementation based on [go chassis](https://github.com/ServiceComb/go-chassis). 华为开源
 - [nginmesh](https://github.com/nginmesh/nginmesh) - Service Mesh using Nginx
 - [nginx-unit](https://github.com/nginx/unit) - NGINX Unit is a new, lightweight, open source application server built to meet the demands of today’s dynamic and distributed applications.
 - [servicecomb](https://github.com/ServiceComb) - ServiceComb is a microservice framework that provides an easy way to develop and deploy applications in the cloud. 华为开源
