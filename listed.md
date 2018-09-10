@@ -16,4 +16,6 @@
 - [nginmesh](https://github.com/nginmesh/nginmesh) - Service Mesh using Nginx
 - [nginx-unit](https://github.com/nginx/unit) - NGINX Unit is a new, lightweight, open source application server built to meet the demands of today’s dynamic and distributed applications.
 - [servicecomb](https://github.com/ServiceComb) - ServiceComb is a microservice framework that provides an easy way to develop and deploy applications in the cloud. 华为开源
+- [sofa-mesh](https://github.com/alipay/sofa-mesh) - A solution for large-scale Service Mesh based on Istio. <http://www.sofastack.tech/> 蚂蚁金服开源
+- [sofa-mosn](https://github.com/alipay/sofa-mosn) - SOFAMosn is a modular observable smart network which can be used in service mesh deployed as a data plane sidecar. 蚂蚁金服开源
 - [tars](https://github.com/Tencent/Tars) - Tars is a highly performance rpc framework based on naming service using tars protocol and provides a semi-automatic operation platform. 腾讯开源
