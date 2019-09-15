@@ -58,7 +58,7 @@ Service Mesh 又译“服务网格”，本站创建并维护这份Awesome Servi
 
 ### 文档
 
-- [conduit官方文档中文版](http://conduit.doczh.cn/)
+- [conduit官方文档](https://conduit.io/)
 
 ### 文章
 
