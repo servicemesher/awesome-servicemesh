@@ -34,7 +34,7 @@ Service Mesh 又译“服务网格”，本站创建并维护这份Awesome Servi
 
 ### 文档
 
-- [istio官方文档中文版](https://istio.io/zh)
+- [istio官方文档中文版](https://preliminary.istio.io/zh/)
 
 ### 工具
 
