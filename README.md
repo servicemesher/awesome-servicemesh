@@ -16,11 +16,15 @@ Service Mesh 又译“服务网格”，本站创建并维护这份Awesome Servi
 - [新浪微博MotanMesh](#MotanMesh)
 - [腾讯ServiceMesh](#tencent)
 - [UCloud](#ucloud)
+- [Meshery](https://meshery.io/)
 
 ## ServiceMesh
 
+### 文章
+
 | 时间 | 标题 | 作者 | 中文翻译 | 备注 |
 |--|--------|--------|----|----|
+| 2018-06-11 | [The Enterprise Path to Service Mesh Architectures](https://layer5.io/books/the-enterprise-path-to-service-mesh-architectures) | Lee Calcote | - | - |
 | 2018-05-20 | [Service Mesh：重塑微服务市场](https://www.servicemesher.com/blog/service-mesh-rebuild-microservice-market/)![](images/new_red.png) | 敖小剑   | - | 南京全球技术周互联网技术架构论坛 |
 | 2018-1 |   [解读2017之Service Mesh：<br>群雄逐鹿烽烟起](https://mp.weixin.qq.com/s?__biz=MzIwMzg1ODcwMw==&mid=2247487273&idx=1&sn=f654a9a8cb85d8cf2d06e469585cce8a&chksm=96c9b949a1be305f3eaa18e3fcb29cf66b4f51f37869e7ccd8c080a8ded8f4ecfe78e3de8ac6&mpshare=1&scene=1&srcid=1227PrB5dA8Hr3CHPv6B9PEN&pass_ticket=K%2FYVK4frKmQIBjzOKz2fFYc%2BwxcpMJV4d14ui%2BayOESnQJD%2BLr5DtBVa12t1Zu2N#rd)  | 敖小剑   | - | Infoq年度总结系列文章 |
 | 2017-12 |   [山雨欲来风满楼：<br>Service Mesh时代的选边与站队](https://mp.weixin.qq.com/s?__biz=MzU0MTMyMDg1NQ==&mid=2247483697&idx=1&sn=b5fdd3af4ae352942820cec9280257c3&chksm=fb2af2c9cc5d7bdf05b7a58ba9120f4390de52c9c74e3d5e6932ca6b9367677234dbf8af06c1&mpshare=1&scene=1&srcid=1220gyaL6UP5ZUFpMn0UgPke&pass_ticket=K%2FYVK4frKmQIBjzOKz2fFYc%2BwxcpMJV4d14ui%2BayOESnQJD%2BLr5DtBVa12t1Zu2N#rd)  | 敖小剑   | - | 北京meetup演讲实录 |
@@ -38,6 +42,7 @@ Service Mesh 又译“服务网格”，本站创建并维护这份Awesome Servi
 
 ### 工具
 
+- [istio-service-mesh-workshop](https://github.com/layer5io/istio-service-mesh-workshop)
 - [在线体验istio](https://katacoda.com/courses/istio/): 实测可用
 - [istio-workshop](https://github.com/retroryan/istio-workshop)
 
@@ -45,6 +50,7 @@ Service Mesh 又译“服务网格”，本站创建并维护这份Awesome Servi
 
 | 时间 | 标题 | 作者 | 中文翻译 | 备注 |
 |--|--------|--------|----|----|
+| 2018-6 | [Istio: Up and Running](https://layer5.io/books/istio-up-and-running)  |  Lee Calcote, Zack Butcher  | - | - |  
 | 2017-11 | ![](images/ppt.png) [8 Steps to Becoming Awesome with Kubernetes](https://docs.google.com/presentation/d/1ij64THksTygvifW5BD-n0ipc6MDF4cGBRQcV3BRYaoM/edit#slide=id.g12c8aac1e6_0_890)   | Burr Sutter  | - | [PPT国内下载（免翻墙）](http://www.servicemesh.cn/?/article/11?notification_id=34&item_id=4) |
 | 2017-10 |  [Kubernetes, Microservices, and Istio  — A Great Fit!](https://thenewstack.io/kubernetes-microservices-istio%E2%80%8A-%E2%80%8Aa-great-fit/)  | Animesh Singh  | - | - |
 | 2017-09 |   [什么是Service Mesh（服务网格）](https://jimmysong.io/posts/what-is-a-service-mesh/)  |  宋净超  | - | - |
@@ -53,6 +59,7 @@ Service Mesh 又译“服务网格”，本站创建并维护这份Awesome Servi
 | 2017-05|  [Google, IBM and Lyft launch Istio, an open-source platform for managing and securing microservices](https://techcrunch.com/2017/05/24/google-ibm-and-lyft-launch-istio-an-open-source-platform-for-managing-and-securing-microservices/?utm_source=tuicool&utm_medium=referral)   |  Frederic Lardinois   | [Istio开源平台发布，Google、IBM和Lyft分别承担什么角色？](https://www.leiphone.com/news/201705/RwRlyAs7Mi8pqhSb.html) | - |
 | 2017-05|  [Google, IBM, Lyft partner on open source microservices management platform Istio](https://www.techrepublic.com/article/google-ibm-lyft-partner-on-open-source-microservices-management-platform-istio/)   |  Conner Forrest   | - | _ |
 | 2017-11 | [一个商用级Service Mesh服务的设计之道](https://blog.csdn.net/karamos/article/details/80133231)   | 田晓亮  | - | [相关PPT](http://servicecomb.incubator.apache.org/assets/slides/20171209/PracticeOfServiceMeshOnHuaweiPublicCloud.pdf) |
+
 
 ## Conduit
 
@@ -96,6 +103,7 @@ Service Mesh 又译“服务网格”，本站创建并维护这份Awesome Servi
 
 | 时间 | 标题 | 作者 | 中文翻译 | 备注 |
 |--|--------|--------|----|----|
+| 2018-02 |  [O'Reilly: Istio & NginMesh](https://www.oreilly.com/pub/e/3926)  | Lee Calcote | - | [deck](https://calcotestudios.com/talks/decks/slides-istio-the-extensible-service-mesh-nginmesh.html)  |
 | 2017-09 |   [NGINX Releases Microservices Platform, OpenShift Ingress Controller, and Service Mesh Preview](https://www.infoq.com/news/2017/09/nginx-platform-service-mesh)  | Daniel Bryant | [NGINX 发布微服务平台、OpenShift Ingress Controller 和Service Mesh预览版](http://www.infoq.com/cn/news/2017/09/nginx-platform-service-mesh) | _ |
 
 ## Aspen Mesh
