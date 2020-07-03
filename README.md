@@ -50,8 +50,8 @@ Service Mesh 又译“服务网格”，本站创建并维护这份Awesome Servi
 
 | 时间 | 标题 | 作者 | 中文翻译 | 备注 |
 |--|--------|--------|----|----|
-| 2018-6 | [Istio: Up and Running](https://layer5.io/books/istio-up-and-running)  |  Lee Calcote, Zack Butcher  | - | - |  
-| 2017-11 | ![](images/ppt.png) [8 Steps to Becoming Awesome with Kubernetes](https://docs.google.com/presentation/d/1ij64THksTygvifW5BD-n0ipc6MDF4cGBRQcV3BRYaoM/edit#slide=id.g12c8aac1e6_0_890)   | Burr Sutter  | - | [PPT国内下载（免翻墙）](http://www.servicemesh.cn/?/article/11?notification_id=34&item_id=4) |
+| 2018-6 | [Istio: Up and Running](https://layer5.io/books/istio-up-and-running)  |  Lee Calcote, Zack Butcher  | - | - |
+| 2017-11 | ![](images/ppt.png) [8 Steps to Becoming Awesome with Kubernetes](https://docs.google.com/presentation/d/1ij64THksTygvifW5BD-n0ipc6MDF4cGBRQcV3BRYaoM/edit#slide=id.g12c8aac1e6_0_890)   | Burr Sutter  | - |  |
 | 2017-10 |  [Kubernetes, Microservices, and Istio  — A Great Fit!](https://thenewstack.io/kubernetes-microservices-istio%E2%80%8A-%E2%80%8Aa-great-fit/)  | Animesh Singh  | - | - |
 | 2017-09 |   [什么是Service Mesh（服务网格）](https://jimmysong.io/posts/what-is-a-service-mesh/)  |  宋净超  | - | - |
 | 2017-09 |   [服务网格新生代--Istio](https://mp.weixin.qq.com/s?__biz=MzA3MDg4Nzc2NQ==&mid=2652136078&idx=1&sn=b261631ffe4df0638c448b0c71497021&chksm=84d532b4b3a2bba2c1ed22a62f4845eb9b6f70f92ad9506036200f84220d9af2e28639a22045&scene=21#wechat_redirect)  | 敖小剑   | - | 线上分享实录 |
@@ -71,7 +71,7 @@ Service Mesh 又译“服务网格”，本站创建并维护这份Awesome Servi
 
 | 时间 | 标题 | 作者 | 中文翻译 | 备注 |
 |--|--------|--------|----|----|
-| 2018-07-06 | [Conduit 0.5.0 and the future of Conduit](https://blog.conduit.io/2018/07/06/conduit-0-5-and-the-future/) | [Oliver Gould](https://blog.conduit.io/author/oliver/) | [Conduit 0.5 发布 —— 以及 R.I.P. Conduit](Conduit 0.5 发布 —— 以及 R.I.P. Conduit) | Conduit最后一个版本，将合并入Linkerd 2.0 |
+| 2018-07-06 | [Conduit 0.5.0 and the future of Conduit](https://blog.conduit.io/2018/07/06/conduit-0-5-and-the-future/) | [Oliver Gould](https://blog.conduit.io/author/oliver/) |  | Conduit最后一个版本，将合并入Linkerd 2.0 |
 | 2017-12 |   [Conduit AMA session recap](https://buoyant.io/2017/12/27/conduit-ama-session-recap/) ![](images/new_red.png) | George Miranda | [Conduit AMA 活动回放](https://mp.weixin.qq.com/s?__biz=MzIxMDY5ODM1OA==&mid=2247483950&idx=1&sn=9c1ac2317a744f4071b14f9e1575558b&chksm=9761eb37a0166221de9827ff430e6ee3d164e73145d42009f5f6f4d9f4146deb0899524b894d&mpshare=1&scene=1&srcid=0101VEm8cn0KyNSem88rXHPU&pass_ticket=K%2FYVK4frKmQIBjzOKz2fFYc%2BwxcpMJV4d14ui%2BayOESnQJD%2BLr5DtBVa12t1Zu2N#rd) | 介绍conduit项目的各种情况 |
 | 2017-12 |   [Introducing Conduit](https://buoyant.io/2017/12/05/introducing-conduit/) | William Morgan | [Conduit 登场](https://blog.fleeto.us/post/conduit-ann/) |  |
 
