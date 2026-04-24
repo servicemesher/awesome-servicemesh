@@ -45,6 +45,7 @@ Service Mesh 又译“服务网格”，本站创建并维护这份Awesome Servi
 - [istio-service-mesh-workshop](https://github.com/layer5io/istio-service-mesh-workshop)
 - [在线体验istio](https://katacoda.com/courses/istio/): 实测可用
 - [istio-workshop](https://github.com/retroryan/istio-workshop)
+- [KubeStellar Console](https://console.kubestellar.io) - Open source AI-powered multi-cluster Kubernetes dashboard with Istio service mesh observability and AI-guided operations. 20+ CNCF integrations. CNCF Sandbox project.
 
 ### 文章
 
